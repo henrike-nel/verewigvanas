@@ -1,0 +1,236 @@
+ .u-section-1 {
+  min-height: 710px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 710px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 69px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 100px 11px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.26667rem;
+  width: 359px;
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  font-size: 1.26667rem;
+  margin: 62px auto 0;
+  padding: 9px 86px 11px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.26667rem;
+  width: 301px;
+  margin: 90px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-family: Roboto, sans-serif;
+  padding: 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 710px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 450px;
+  width: 381px;
+  background-image: url("/images/CarmenAdam-85Large.jpeg");
+  background-position: 50% 50%;
+  margin: 100px auto 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  width: 381px;
+  margin: 11px auto 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 585px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 332px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 585px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 300px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 300px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 300px;
+    margin-top: 49px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 34px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-top: 34px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 47px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 47px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 144px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 571px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.26667rem;
+    margin-top: 44px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 30px;
+    margin-left: 63px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 295px;
+    margin-top: 76px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 69px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}@font-face {
+  font-family: 'Aileron-Thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Aileron-Thin.otf);
+}@font-face {
+  font-family: 'calgary-serial-extralight-regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/calgary-serial-extralight-regular.ttf);
+}@font-face {
+  font-family: 'Aileron-ThinItalic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Aileron-ThinItalic.otf);
+}

@@ -1,0 +1,911 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 837px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 2.25rem;
+  margin: 48px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.26667rem;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 740px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 981px;
+  height: 583px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.26667rem;
+  width: 740px;
+  margin: -551px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.0625rem;
+  transition-duration: 0.5s;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: 400;
+  margin: 41px 106px 0 617px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  font-size: 1.13333rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  font-size: 1.0625rem;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-5 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-7 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-9 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-10 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-11 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-1 .u-btn-12 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-13 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-14 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-15 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-16 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  font-size: 1.13333rem;
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.0625rem;
+  transition-duration: 0.5s;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: 400;
+  margin: -406px 523px 60px 200px;
+}
+
+.u-section-1 .u-btn-17 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  font-size: 1.0625rem;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-1 .u-btn-18 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-19 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-20 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-21 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-22 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-23 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-24 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-25 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-26 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-27 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-28 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-29 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-30 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-31 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-32 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-33 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 35px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 940px;
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 44px;
+    margin-right: 35px;
+    margin-left: 517px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: -431px;
+    margin-right: 423px;
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 99px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 621px;
+    margin-top: -46px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 14px;
+    margin-left: 360px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-right: 391px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 117px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 705px;
+    margin-top: -64px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: -690px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 31px;
+    margin-left: 270px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: -483px;
+    margin-right: 280px;
+    margin-left: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 974px;
+    margin-top: 15px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -954px;
+    margin-right: 8px;
+    margin-left: -7px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 474px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: -889px;
+    margin-right: 13px;
+    margin-left: 20px;
+  }
+}
+
+.u-section-1 .u-text-4,
+.u-section-1 .u-text-4:before,
+.u-section-1 .u-text-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-4 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-4 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-11,
+.u-section-1 .u-btn-11:before,
+.u-section-1 .u-btn-11 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-btn-11.u-btn-11.u-btn-11:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-11.u-btn-11.u-btn-11.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-11 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-11 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-2,
+.u-section-1 .u-btn-2:before,
+.u-section-1 .u-btn-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-3,
+.u-section-1 .u-btn-3:before,
+.u-section-1 .u-btn-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-btn-3.u-btn-3.u-btn-3:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-3.u-btn-3.u-btn-3.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-5,
+.u-section-1 .u-text-5:before,
+.u-section-1 .u-text-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-5 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-5 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-btn-17,
+.u-section-1 .u-btn-17:before,
+.u-section-1 .u-btn-17 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-17 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-17 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-shape-1,
+.u-section-1 .u-shape-1:before,
+.u-section-1 .u-shape-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-shape-1.u-shape-1.u-shape-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-shape-1.u-shape-1.u-shape-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-shape-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-shape-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 567px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 981px;
+  height: 443px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 45px auto 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.26667rem;
+  margin: -400px 391px 0 409px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.0625rem;
+  transition-duration: 0.5s;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-weight: 400;
+  margin: 62px 464px 0 197px;
+}
+
+.u-section-2 .u-btn-1 {
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  font-size: 1.0625rem;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-2 .u-btn-2 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-3 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-4 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-5 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-6 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-7 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-8 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-9 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-10 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.0625rem;
+  transition-duration: 0.5s;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-weight: 400;
+  margin: -275px 197px 60px 643px;
+}
+
+.u-section-2 .u-btn-11 {
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  font-size: 1.0625rem;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  padding: 0;
+}
+
+.u-section-2 .u-btn-12 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-13 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-14 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-15 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-16 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-17 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-18 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-19 {
+  font-family: Roboto, sans-serif;
+  transition-duration: 0.5s;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 562px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    height: 451px;
+    margin-top: 49px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+    margin-top: -411px;
+    margin-right: 291px;
+    margin-left: 309px;
+  }
+
+  .u-section-2 .u-text-2 {
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+    margin-right: 364px;
+    margin-left: 97px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 97px;
+    margin-left: 543px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    height: 425px;
+    margin-top: 56px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -393px;
+    margin-right: 181px;
+    margin-left: 199px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 64px;
+    margin-right: 214px;
+    margin-left: 27px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin: -277px 36px 128px 384px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: 11px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 91px;
+    margin-left: 109px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 49px;
+    margin-left: 12px;
+    font-weight: normal;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 12px;
+    margin-bottom: 60px;
+    margin-left: 277px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 701px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    height: 581px;
+    margin-top: 71px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -562px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 233px;
+    margin-right: -20px;
+    margin-left: 20px;
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: -504px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+.u-section-2 .u-text-2,
+.u-section-2 .u-text-2:before,
+.u-section-2 .u-text-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-container-layout:hover .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-btn-1,
+.u-section-2 .u-btn-1:before,
+.u-section-2 .u-btn-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-container-layout:hover .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-text-3,
+.u-section-2 .u-text-3:before,
+.u-section-2 .u-text-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-container-layout:hover .u-text-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-text-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-btn-11,
+.u-section-2 .u-btn-11:before,
+.u-section-2 .u-btn-11 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-container-layout:hover .u-btn-11 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-btn-11 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-shape-1,
+.u-section-2 .u-shape-1:before,
+.u-section-2 .u-shape-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-shape-1.u-shape-1.u-shape-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-2 .u-shape-1.u-shape-1.u-shape-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-2 .u-container-layout:hover .u-shape-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-shape-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}@font-face {
+  font-family: 'Aileron-Thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Aileron-Thin.otf);
+}@font-face {
+  font-family: 'calgary-serial-extralight-regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/calgary-serial-extralight-regular.ttf);
+}@font-face {
+  font-family: 'Aileron-ThinItalic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Aileron-ThinItalic.otf);
+}
